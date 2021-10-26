@@ -1,1 +1,1 @@
-# Dissertation_NLP_in_Finance
+# Dissertation_Using_Word_Embedding_Models_to_Estimate_the_Risk_of_Financial_Portfolios
